@@ -1,1 +1,1 @@
-Caso queira abrir no navegador, extraia "as imagens" para a pasta dos arquivos.
+Caso queira abrir no navegador, extraia "imagens.rar" para a pasta dos arquivos.
